@@ -5,7 +5,7 @@ import hashlib
 import os
 
 DISCORD_WEBHOOK_URL = os.environ["DISCORD_WEBHOOK_URL"]
-TARGET_URL = "https://www.31sumai.com/attend/X2571/"
+TARGET_URL = "https://x.com/rakukoko"
 
 HEADERS = {
     "User-Agent": (
