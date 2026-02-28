@@ -4,7 +4,7 @@ import datetime
 import hashlib
 import os
 
-DISCORD_WEBHOOK_URL = os.environ["https://discord.com/api/webhooks/1476782227516952598/5A48kKyGMCRpl6BOLxgH17UF9aPiOrb1ps6N6JuKDmxiifOcV28YkGK9TS-Giw3xEskF"]
+DISCORD_WEBHOOK_URL = os.environ["DISCORD_WEBHOOK_URL"]
 TARGET_URL = "https://www.31sumai.com/attend/X2571/"
 
 HEADERS = {
